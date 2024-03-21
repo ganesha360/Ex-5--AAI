@@ -1,5 +1,5 @@
 <H1 ALIGN =CENTER> Implementation of Kalman Filter</H1>
-<H3> NAME : GANESH R S</H3>
+<H3> NAME : GANESH R </H3>
 <H3> REGISTER NO : 212222240029.</H3>
 <H3>EX. NO.5</H3>
 <H3>DATE: 21-03-2024</H3>
